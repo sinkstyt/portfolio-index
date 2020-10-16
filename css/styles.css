@@ -48,6 +48,18 @@ h3 {
   clear: both;
   margin-top: 2em;
 }
+h2, h3 {
+  font-family: 'Taviraj', serif;
+}
+#contact {
+  text-decoration: none;
+  font-family: 'Taviraj', serif;
+  color: black;
+  clear: top;
+}
+a:hover {
+  background-color: yellow;
+}
 .blockquote-footer {
   color: #593e4d;
   margin-bottom: 10%;
