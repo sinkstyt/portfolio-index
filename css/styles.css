@@ -1,16 +1,3 @@
-/*
-a custom-made stylesheet that uses typography styles, cascading, the box model, and floats.
-
-some colors picked from the picture of Gentiana Lutea
-#fdffb4 (an intensely bright pale yellow)
-#e0ec42 (a light yellow)
-#fef826 (another light yellow)
-#90a313 (medium orange-yellow)
-#4c6000 (a shadow on the plant)
-#070c06 (nearly black)
-#593e4d (a purply color)
-
-*/
 body {
   background: repeating-conic-gradient(
     from 3deg at 20% 15%,
