@@ -52,3 +52,7 @@ h3 {
 .bg-success, .bg-info {
   opacity: 0.8;
 }
+.card {
+  clear: top;
+  border-width: 0;
+}
