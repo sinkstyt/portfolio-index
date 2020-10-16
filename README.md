@@ -1,6 +1,7 @@
-## What the author looks like when he started this project
-
 # _Tyler Sinks's portfolio index_
+
+## What the author looks like when he started this project
+![An image of Tyler, this project's author](http://sinsktyt.github.io/portfolio-index/img/IMG_1765.jpeg)
 
 #### _This project functions as a jumping off point to explore some of the work Tyler has begun in the realm of web development and software engineering_
 * Created October 16, 2020
@@ -23,13 +24,9 @@ A gh-pages branch so that your site may be viewed on GitHub Pages at your-userna
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _In order to most easily view my portfolio, please [click this link](https://sinkstyt.github.io/portfolio-index/index.html)_
+* _Alternatively, you could copy and paste the address below into a web browser's address bar:_
+* _No additional libraries ought to be required to view this page_
 
 ## Known Bugs
 
@@ -41,10 +38,12 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_html_
+_css_
+_and Bootstrap for a bit of styling_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT 2.0*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Tyler Sinks_**
