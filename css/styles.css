@@ -20,6 +20,17 @@ body {
 .jumbotron {
   background-color: #fdffb4;
 }
+.jumbotron h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 4rem;
+}
+.jumbotron p {
+  padding: 12px;
+  opacity: 0.8;
+  margin-top: 2rem;
+}
 .card-text {
   text-decoration: none;
   font-family: 'Libre Baskerville', serif;
@@ -29,6 +40,7 @@ img {
   margin-right: 30px;
   max-width: 450px;
   float: left;
+  border-radius: 30%;
 }
 h3 {
   clear: both;
