@@ -11,3 +11,7 @@ some colors picked from the picture of Gentiana Lutea
 #593e4d (a purply color)
 
 */
+.card-text {
+  text-decoration: none;
+  font-family: 'Libre Baskerville', serif;
+}
