@@ -55,8 +55,13 @@ h3 {
 .bg-success, .bg-info {
   opacity: 0.8;
 }
+.bg-info {
+  color: black;
+  background-blend-mode: color-dodge;
+}
 .card {
   clear: top;
   border-width: 0;
   box-sizing: border-box;
+  background-color:hsla(133, 74%, 71%, 0.45)
 }
