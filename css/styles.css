@@ -11,7 +11,32 @@ some colors picked from the picture of Gentiana Lutea
 #593e4d (a purply color)
 
 */
+body {
+  background: repeating-conic-gradient(
+    from 3deg at 20% 15%,
+    hsla(133, 74%, 71%, 0.45) 0deg 15deg,
+    hsla(300, 5%, 45%, 0.75) 10deg 30deg);
+}
+.jumbotron {
+  background-color: #fdffb4;
+}
 .card-text {
   text-decoration: none;
   font-family: 'Libre Baskerville', serif;
+}
+img {
+  margin: 20px;
+  margin-right: 30px;
+  max-width: 450px;
+  float: left;
+}
+h3 {
+  clear: both;
+  margin-top: 2em;
+}
+.blockquote-footer {
+  color: #593e4d;
+}
+.bg-success, .bg-info {
+  opacity: 0.8;
 }
